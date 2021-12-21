@@ -17,4 +17,9 @@ public abstract class Device {
 	}
 	
 	public abstract void processDoc(String doc);
+
+	public void print(String doc) {
+		// TODO Auto-generated method stub
+		
+	}
 }
